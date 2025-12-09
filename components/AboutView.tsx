@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { ChevronLeft, Heart, Code, Globe, Coffee, Star, Linkedin, Github, Twitter, ExternalLink, Mail } from 'lucide-react';
+import { ChevronLeft, Heart, Code, Globe, Coffee, Star, Linkedin, Github, Instagram , ExternalLink, Mail } from 'lucide-react';
 
 interface AboutViewProps {
   onBack: () => void;
