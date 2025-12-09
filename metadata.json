@@ -1,0 +1,5 @@
+{
+  "name": "HabitFlow",
+  "description": "A comprehensive habit tracking application with weekly/monthly views, data visualization, and AI-powered insights using Gemini.",
+  "requestFramePermissions": []
+}

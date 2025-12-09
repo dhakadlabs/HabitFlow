@@ -1,0 +1,15 @@
+{
+  "short_name": "HabitFlow",
+  "name": "Intelligent Habit Tracker",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/4812/4812244.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4f46e5",
+  "background_color": "#ffffff"
+}
