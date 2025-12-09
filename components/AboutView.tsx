@@ -65,9 +65,9 @@ const AboutView: React.FC<AboutViewProps> = ({ onBack }) => {
 
       {/* Connect Dock */}
       <div className="grid grid-cols-2 sm:grid-cols-5 gap-4 max-w-4xl mx-auto">
-          <SocialLink icon={Globe} label="Website" href="#" colorClass="text-emerald-400" />
-          <SocialLink icon={Twitter} label="Twitter" href="#" colorClass="text-sky-400" />
-          <SocialLink icon={Github} label="GitHub" href="#" colorClass="text-slate-200" />
+          <SocialLink icon={Globe} label="Website" href="https://app-habitflow.netlify.app/" colorClass="text-emerald-400" />
+          <SocialLink icon={Instagram} label="Instagram" href="https://www.instagram.com/_pravasi_001" colorClass="text-sky-400" />
+          <SocialLink icon={Github} label="GitHub" href="https://github.com/dhakadlabs/" colorClass="text-slate-200" />
           <SocialLink icon={Linkedin} label="LinkedIn" href="#" colorClass="text-blue-500" />
           <SocialLink icon={Mail} label="Mail Us" href="mailto:dhakadlabs@gmail.com" colorClass="text-red-500" />
       </div>
@@ -111,7 +111,7 @@ const AboutView: React.FC<AboutViewProps> = ({ onBack }) => {
               © {new Date().getFullYear()} Dhakad Labs Inc. All rights reserved.
           </p>
           <p className="text-xs text-slate-500 mt-2">
-              Made with React, Tailwind, and a lot of ☕
+             Made with ♡ by Dhakad Labs
           </p>
       </div>
     </div>
